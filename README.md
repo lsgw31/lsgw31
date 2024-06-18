@@ -1,0 +1,5 @@
+- Hi, I’m @lsgw31
+- I’m interested in competitive programming
+- I’m currently learning how to use VS Code and Git
+- Contact me at: lsgw31@gmail.com
+- Pronouns: He/Him
